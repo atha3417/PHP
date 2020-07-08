@@ -1,0 +1,22 @@
+1.
+
+web hosting = awardspace.com
+account = nafrozen20@gmail.com
+database name = 3448625_login
+database password = {?EiZX*[4sG3)DY%
+database username = 3448625_login
+
+
+id000webhost
+account - codecoding
+password = account = LEOEJxdjYpL2g6XEQE!G
+
+
+2.
+
+web hosting = id000webhost
+account = codecoding
+database name = id13841162_login
+database password = YF9K]CQvZGCDRfxs
+database username = id13841162_nafrozen
+database host - localhost

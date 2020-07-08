@@ -1,0 +1,30 @@
+[
+	{
+		"nama": "Muhammad Atha Tsaqif",
+		"umur": 14,
+		"nrp": "123123123",
+		"lulus": true,
+		"hobi": [
+			"coding",
+			"gaming"
+		],
+		"pembimbing": {
+			"pembimbing1": "Fayza Azmina Fachira",
+			"pembimbing2": "Marchelle Vicky Angelie"
+		}
+	},
+	{
+		"nama": "Muhammad Atha Tsaqif",
+		"umur": 14,
+		"nrp": "123123123",
+		"lulus": true,
+		"hobi": [
+			"coding",
+			"gaming"
+		],
+		"pembimbing": {
+			"pembimbing1": "Fayza Azmina Fachira",
+			"pembimbing2": "Marchelle Vicky Angelie"
+		}
+	}
+]

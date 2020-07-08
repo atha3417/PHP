@@ -1,0 +1,12 @@
+dashboard/
+img/
+webalizer/
+xampp/
+applications.html
+bitnami.css
+favicon.ico
+index.php
+desktop.ini
+*.ini
+thumbs.db
+*.db
